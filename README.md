@@ -1,5 +1,7 @@
 # candidate_movies
 
+## These are the movies for the 11 transient or variable candidates preliminarily discovered with MeerKAT in the field of the high energy GRB190114C
+
 ## SRC26088
 ![cand26088_movie](https://user-images.githubusercontent.com/49990618/213155902-0cfea979-9a68-4fef-82bd-235374478baf.gif)
 
