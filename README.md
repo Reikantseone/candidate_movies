@@ -1,4 +1,4 @@
-# candidate_movies
+# MeerKAT_Transient_Candidate_Movies
 
 ## These are the movies for the 11 transient or variable candidates preliminarily discovered with MeerKAT in the field of the high energy GRB190114C
 
