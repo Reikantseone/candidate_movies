@@ -3,61 +3,59 @@
 ### These are the movies for the 11 transient or variable candidates preliminarily discovered with MeerKAT in the field of the high energy GRB190114C
 
 ## SRC26088
-![cand26088_movie](https://user-images.githubusercontent.com/49990618/213155902-0cfea979-9a68-4fef-82bd-235374478baf.gif)
 
+![SRC26088_movie](https://user-images.githubusercontent.com/49990618/216214752-ba0bda87-b14c-4baa-b312-b6db7811de5d.gif)
 
 
 ## SRC26261
 
-![SRC26261_movie](https://user-images.githubusercontent.com/49990618/213171978-f4318179-8ef7-44f2-b479-c01467173a29.gif)
-
+![SRC26261_movie](https://user-images.githubusercontent.com/49990618/216215049-6395b571-7a33-4b55-8de6-d53bb1759c1c.gif)
 
 
 ## SRC26340
-
-![SRC26340_movie](https://user-images.githubusercontent.com/49990618/213172003-ac2ee387-354c-4bc6-8d7b-36c977b5c2fe.gif)
+![SRC26340_movie](https://user-images.githubusercontent.com/49990618/216215114-6c53e240-812b-48ad-8287-8f1ca31bc534.gif)
 
 
 ## SRC26347
-![SRC26347_movie](https://user-images.githubusercontent.com/49990618/213172023-7d3af6e4-c3b0-4f99-88f2-98877ad53444.gif)
 
+![SRC26347_movie](https://user-images.githubusercontent.com/49990618/216215164-0650ff52-5dbd-472c-b103-abac0f67ccda.gif)
 
 
 ## SRC26606
 
-![SRC26606_movie](https://user-images.githubusercontent.com/49990618/213172136-4b90d99b-06c7-4631-ad3e-5786df10708d.gif)
+![SRC26606_movie](https://user-images.githubusercontent.com/49990618/216215216-deba3f07-3732-47cb-82b0-543b1bb582a1.gif)
 
 
 ## SRC26637
-![SRC26637_movie](https://user-images.githubusercontent.com/49990618/213172193-bb0de417-eb88-4e43-b08c-bbd21465bb30.gif)
+
+![SRC26637_movie](https://user-images.githubusercontent.com/49990618/216215271-f3ca46a4-d113-4eeb-9bf8-1ac7e98c3d18.gif)
 
 
 
 ## SRC27019
-![SRC27019_movie](https://user-images.githubusercontent.com/49990618/213172222-46de089b-5956-417c-9f89-6eeee1a21b43.gif)
+
+![SRC27019_movie](https://user-images.githubusercontent.com/49990618/216215350-d222b134-ef68-4339-9cc4-1b68d1f1e72f.gif)
 
 
 ## SRC27165
-![SRC27165_movie](https://user-images.githubusercontent.com/49990618/213172284-09ab88c3-69db-4c7c-94c3-ef1ad49bff64.gif)
+![SRC27165_movie](https://user-images.githubusercontent.com/49990618/216215428-99917361-7e4f-416c-b163-48ebdafce30d.gif)
 
 
 
 ## SRC27243
+![SRC27243_movie](https://user-images.githubusercontent.com/49990618/216215497-1d5a9791-287e-42ac-b39c-03d5ac76e9c4.gif)
 
-![SRC27243_movie](https://user-images.githubusercontent.com/49990618/213172307-b3752bb7-a3c0-480e-bd55-632020248eed.gif)
 
 
 
 ## SRC26977
-![SRC26977_movie](https://user-images.githubusercontent.com/49990618/213172357-da9d2737-37a2-451e-8bd9-a0b74e51af43.gif)
 
+![SRC26977_movie](https://user-images.githubusercontent.com/49990618/216215563-3814a4ae-8b2f-4901-97e8-dace902fbb96.gif)
 
 
 
 ## SRC27078
 
-![SRC27078_movie](https://user-images.githubusercontent.com/49990618/213172382-67c47634-985e-4c3c-a431-d298625d1055.gif)
 
-
-
+![SRC27078_movie](https://user-images.githubusercontent.com/49990618/216215605-e8a5b8a9-a7b7-4b13-bd5e-b86fdd0a61ec.gif)
 
